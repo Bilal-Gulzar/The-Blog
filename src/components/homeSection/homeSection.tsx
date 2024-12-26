@@ -19,7 +19,7 @@ function HomeSection() {
             <Link href="blogDetail/1">
               <div>
                 <Image
-                  src="/homeSection/img6.png"
+                  src="/homeSection/img1.png"
                   width={580}
                   height={580}
                   alt="blogImg"
@@ -55,7 +55,7 @@ function HomeSection() {
             <Link href="blogDetail/1">
               <div>
                 <Image
-                  src="/homeSection/img1.png"
+                  src="/homeSection/img2.png"
                   width={580}
                   height={580}
                   alt="blogImg"
@@ -94,7 +94,7 @@ function HomeSection() {
             <Link href="blogDetail/1">
               <div>
                 <Image
-                  src="/homeSection/img2.png"
+                  src="/homeSection/img3.png"
                   width={580}
                   height={580}
                   alt="blogImg"
@@ -130,7 +130,7 @@ function HomeSection() {
             <Link href="blogDetail/1">
               <div>
                 <Image
-                  src="/homeSection/img3.png"
+                  src="/homeSection/img4.png"
                   width={580}
                   height={580}
                   alt="blogImg"
@@ -166,7 +166,7 @@ function HomeSection() {
             <Link href="blogDetail/1">
               <div>
                 <Image
-                  src="/homeSection/img4.png"
+                  src="/homeSection/img5.png"
                   width={580}
                   height={580}
                   alt="blogImg"
@@ -205,7 +205,7 @@ function HomeSection() {
             <Link href="blogDetail/1">
               <div>
                 <Image
-                  src="/homeSection/img5.png"
+                  src="/homeSection/img6.png"
                   width={580}
                   height={580}
                   alt="blogImg"
